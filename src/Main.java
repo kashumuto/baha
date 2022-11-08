@@ -3,5 +3,6 @@ public class Main {
         System.out.println("hello world!");
         System.out.println("setting new comment");
         System.out.println("this line only for local repository");
+        System.out.println("this line only for installed git");
     }
 }
